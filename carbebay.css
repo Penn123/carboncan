@@ -89,7 +89,7 @@ div#fader[data-slides="7"] figure a:nth-of-type(7) img { animation: 30s f7fade7 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
 
 body {
-  background: #0a0a0a url('<img src="https://i.ibb.co/3h4wLpj/bg.jpg" width="1920" height="1361" alt="" title="" />') top center repeat-y;
+  background: #0a0a0a url('https://jarilo.co.uk/ebay2019/mtc/newlisting/images/bg.jpg') top center repeat-y;
 }
 
 #wrapper {
@@ -282,4 +282,3 @@ p.introduction {
     font-family: 'Tahoma';
     font-size: 24px;
 }
-
